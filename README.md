@@ -1,4 +1,4 @@
-# UdpChat.py - William Liang (jl5825)
+# UdpChat.py
 
 UdpChat.py is a program written in Python3 to implement UDP-based communication 
 functionalities as indicated by the programming assignment 1 of CSEE4119. The program has
