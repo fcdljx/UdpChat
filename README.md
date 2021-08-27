@@ -1,8 +1,7 @@
 # UdpChat.py
 
 UdpChat.py is a program written in Python3 to implement UDP-based communication 
-functionalities as indicated by the programming assignment 1 of CSEE4119. The program has
-two modes of operation: server, and client. As a server, the program will act to 
+functionalities. The program has two modes of operation: server, and client. As a server, the program will act to 
 keep track of the user information, activities, and store offline chat messages 
 in case a recipient is offline. As a client, the program allows the user to 
 send and receive messages from other clients, and manage the user's own online 
